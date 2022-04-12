@@ -1,3 +1,6 @@
+#MUNASHE MANDOZANA R204567M, HCS
+#NIGEL MIKE DHLIWAYO R204477A, HCC
+
 import streamlit as st
 from charset_normalizer import detect
 from numpy import object_
